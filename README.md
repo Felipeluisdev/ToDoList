@@ -17,6 +17,7 @@ Este projeto é um tutorial de como criar uma **To Do List** simples e responsiv
 - [x] Uso semântico do HTML
 - [x] Váriaveis do css no `:root`
 - [x] Uso do CSS Flexbox
+- [x] Uso da propriedade Overflow
 - [x] Otimização para dispositivos mobiles
 
 
